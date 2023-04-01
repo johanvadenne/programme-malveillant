@@ -1,0 +1,13 @@
+netsh wlan show profile "LiveBox" key=clear
+
+for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do @if "%j" NEQ "" (echo SSID: %j & netsh wlan show profile %j key=clear) & echo.
+
+systeminfo
+
+curl checkip.amazonaws.com
+
+prompt salut$G
+
+curl wttr.in/location
+
+curl -is https://lien

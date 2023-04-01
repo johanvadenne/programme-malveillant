@@ -1,0 +1,472 @@
+SSID:  Redmi Note 10S 
+Un ou plusieurs paramŠtres de la commande sont incorrects ou absents.
+
+Syntaxeÿ: show profiles [[name=]<chaŒne>] [[interface=]<chaŒne>] [key=<chaŒne>]
+
+ParamŠtresÿ:
+
+    Balise          Valeur
+    name          - Nom du profil … afficher.
+    interface     - Nom de l'interface pour laquelle ce profil est configur‚.
+    key           - Pour afficher la cl‚ en texte brut, sp‚cifiez key=clear 
+
+Remarquesÿ:
+
+    Affiche les donn‚es du profil ou r‚pertorie les profils sur le
+    systŠme. Les paramŠtres name et interface sont tous les deux
+    facultatifs.
+
+    Si le nom du profil est fourni, le contenu du profil sera
+    affich‚. Sinon, seuls le nom et la description du profil seront
+    r‚pertori‚s.
+
+    Si le nom de l'interface est fourni, seul le profil sp‚cifi‚
+    de l'interface donn‚e sera r‚pertori‚. Sinon, tous les profils
+    portant le nom donn‚ dans le systŠme seront r‚pertori‚s.
+
+    Si key est d‚fini … ® clear ¯ et que l'appelant est administrateur local,  
+    la cl‚ apparaŒtra en texte brut. 
+
+    Les profils de strat‚gie de groupe sont en lecture seule.
+    Les profils utilisateurs peuvent ˆtre lus et modifi‚s, et l'ordre
+    de pr‚f‚rence peut ˆtre modifi‚.
+
+Exemplesÿ:
+
+    show profiles name="profil 1" interface="Connexion r‚seau sans fil"
+    show profiles name="profil 2"
+    show profiles name="profil 3" key=clear
+    show profiles
+
+SSID:  Jojolapin 
+
+Profil Jojolapin sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Jojolapin
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Jojolapin"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : noukafalco
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: fixe
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t           : Op‚rateur
+
+SSID:  Livebox-E0B0 
+
+Profil Livebox-E0B0 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Livebox-E0B0
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Livebox-E0B0"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : NVDb4jLQbZczXxg4Ev
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+SSID:  C'est jojo lapin 
+Un ou plusieurs paramŠtres de la commande sont incorrects ou absents.
+
+Syntaxeÿ: show profiles [[name=]<chaŒne>] [[interface=]<chaŒne>] [key=<chaŒne>]
+
+ParamŠtresÿ:
+
+    Balise          Valeur
+    name          - Nom du profil … afficher.
+    interface     - Nom de l'interface pour laquelle ce profil est configur‚.
+    key           - Pour afficher la cl‚ en texte brut, sp‚cifiez key=clear 
+
+Remarquesÿ:
+
+    Affiche les donn‚es du profil ou r‚pertorie les profils sur le
+    systŠme. Les paramŠtres name et interface sont tous les deux
+    facultatifs.
+
+    Si le nom du profil est fourni, le contenu du profil sera
+    affich‚. Sinon, seuls le nom et la description du profil seront
+    r‚pertori‚s.
+
+    Si le nom de l'interface est fourni, seul le profil sp‚cifi‚
+    de l'interface donn‚e sera r‚pertori‚. Sinon, tous les profils
+    portant le nom donn‚ dans le systŠme seront r‚pertori‚s.
+
+    Si key est d‚fini … ® clear ¯ et que l'appelant est administrateur local,  
+    la cl‚ apparaŒtra en texte brut. 
+
+    Les profils de strat‚gie de groupe sont en lecture seule.
+    Les profils utilisateurs peuvent ˆtre lus et modifi‚s, et l'ordre
+    de pr‚f‚rence peut ˆtre modifi‚.
+
+Exemplesÿ:
+
+    show profiles name="profil 1" interface="Connexion r‚seau sans fil"
+    show profiles name="profil 2"
+    show profiles name="profil 3" key=clear
+    show profiles
+
+SSID:  Livebox-FB6E 
+
+Profil Livebox-FB6E sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Livebox-FB6E
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Livebox-FB6E"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : 99ECF7E17A6D9AD1F5A7E25C52
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+SSID:  Livebox-3980 
+
+Profil Livebox-3980 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Livebox-3980
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Livebox-3980"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : WQYL2FJWK3MRFMfjkj
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+SSID:  Funkyz 
+
+Profil Funkyz sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Funkyz
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Funkyz"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : correct1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+SSID:  FunkyzModem5G 
+
+Profil FunkyzModem5G sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: FunkyzModem5G
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "FunkyzModem5G"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : correct1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+SSID:  FunkyzModem 
+
+Profil FunkyzModem sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: FunkyzModem
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "FunkyzModem"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : correct1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+SSID:  FREEBOX_PATRICK_A4 
+
+Profil FREEBOX_PATRICK_A4 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: FREEBOX_PATRICK_A4
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "FREEBOX_PATRICK_A4"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA-Personnel
+    Chiffrement                 : CCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : Pacejomasa85
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+SSID:  192.168.0.254 
+
+Profil 192.168.0.254 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: 192.168.0.254
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "192.168.0.254"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : Ouvrir
+    Chiffrement                 : Aucun
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Absent
+    Index de la cl‚ÿ       : 1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
