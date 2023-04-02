@@ -1,0 +1,162 @@
+
+Nom de l'hìte:                              LAPTOP-8TRK6QP8
+Nom du systäme d'exploitation:              Microsoft Windows 10 Famille
+Version du systäme:                         10.0.19044 N/A build 19044
+Fabricant du systäme d'exploitation:        Microsoft Corporation
+Configuration du systäme d'exploitation:    Station de travail autonome
+Type de build du systäme d'exploitation:    Multiprocessor Free
+PropriÇtaire enregistrÇ:                    Johan
+Organisation enregistrÇe:                   N/A
+Identificateur de produit:                  00325-81119-49966-AAOEM
+Date d'installation originale:              22/06/2021, 00:55:20
+Heure de dÇmarrage du systäme:              28/03/2023, 21:55:04
+Fabricant du systäme:                       ASUSTeK COMPUTER INC.
+Modäle du systäme:                          Strix GL704GM_GL704GM
+Type du systäme:                            x64-based PC
+Processeur(s):                              1 processeur(s) installÇ(s).
+                                            [01]ˇ: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2208 MHz
+Version du BIOS:                            American Megatrends Inc. GL704GM.310, 02/02/2021
+RÇpertoire Windows:                         C:\Windows
+RÇpertoire systäme:                         C:\Windows\system32
+PÇriphÇrique d'amoráage:                    \Device\HarddiskVolume2
+Option rÇgionale du systäme:                fr;Franáais (France)
+Paramätres rÇgionaux d'entrÇe:              fr;Franáais (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+MÇmoire physique totale:                    16ˇ235 Mo
+MÇmoire physique disponible:                8ˇ205 Mo
+MÇmoire virtuelleˇ: taille maximale:        18ˇ667 Mo
+MÇmoire virtuelleˇ: disponible:             7ˇ629 Mo
+MÇmoire virtuelleˇ: en cours d'utilisation: 11ˇ038 Mo
+Emplacements des fichiers d'Çchange:        C:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\LAPTOP-8TRK6QP8
+Correctif(s):                               20 Corrections installÇes.
+                                            [01]: KB5022502
+                                            [02]: KB4562830
+                                            [03]: KB4577586
+                                            [04]: KB4580325
+                                            [05]: KB4589212
+                                            [06]: KB4598481
+                                            [07]: KB5003791
+                                            [08]: KB5012170
+                                            [09]: KB5023696
+                                            [10]: KB5011352
+                                            [11]: KB5011651
+                                            [12]: KB5014032
+                                            [13]: KB5014035
+                                            [14]: KB5014671
+                                            [15]: KB5015895
+                                            [16]: KB5016705
+                                            [17]: KB5018506
+                                            [18]: KB5020372
+                                            [19]: KB5022924
+                                            [20]: KB5003242
+Carte(s) rÇseau:                            6 carte(s) rÇseau installÇe(s).
+                                            [01]: TAP-ProtonVPN Windows Adapter V9
+                                                  Nom de la connexionˇ: Connexion au rÇseau local
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [02]: Bluetooth Device (Personal Area Network)
+                                                  Nom de la connexionˇ: Connexion rÇseau Bluetooth
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [03]: Intel(R) Wireless-AC 9560 160MHz
+                                                  Nom de la connexionˇ: Wi-Fi
+                                                  DHCP activÇˇ:         Oui
+                                                  Serveur DHCPˇ:        192.168.1.1
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.1.20
+                                            [04]: Realtek PCIe GbE Family Controller
+                                                  Nom de la connexionˇ: Ethernet
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [05]: VirtualBox Host-Only Ethernet Adapter
+                                                  Nom de la connexionˇ: Ethernet 2
+                                                  DHCP activÇˇ:         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.56.1
+                                            [06]: Wintun Userspace Tunnel
+                                                  Nom de la connexionˇ: ProtonVPN TUN
+                                                  êtatˇ:                Support dÇconnectÇ
+Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ordinateur virtuelˇ: Oui
+                                            Virtualisation activÇe dans le microprogrammeˇ: Oui
+                                            Traduction d'adresse de second niveauˇ: Oui
+                                            PrÇvention de l'exÇcution des donnÇes disponibleˇ: Oui
+
+Nom de l'hìte:                              LAPTOP-8TRK6QP8
+Nom du systäme d'exploitation:              Microsoft Windows 10 Famille
+Version du systäme:                         10.0.19044 N/A build 19044
+Fabricant du systäme d'exploitation:        Microsoft Corporation
+Configuration du systäme d'exploitation:    Station de travail autonome
+Type de build du systäme d'exploitation:    Multiprocessor Free
+PropriÇtaire enregistrÇ:                    Johan
+Organisation enregistrÇe:                   N/A
+Identificateur de produit:                  00325-81119-49966-AAOEM
+Date d'installation originale:              22/06/2021, 00:55:20
+Heure de dÇmarrage du systäme:              28/03/2023, 21:55:04
+Fabricant du systäme:                       ASUSTeK COMPUTER INC.
+Modäle du systäme:                          Strix GL704GM_GL704GM
+Type du systäme:                            x64-based PC
+Processeur(s):                              1 processeur(s) installÇ(s).
+                                            [01]ˇ: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2208 MHz
+Version du BIOS:                            American Megatrends Inc. GL704GM.310, 02/02/2021
+RÇpertoire Windows:                         C:\Windows
+RÇpertoire systäme:                         C:\Windows\system32
+PÇriphÇrique d'amoráage:                    \Device\HarddiskVolume2
+Option rÇgionale du systäme:                fr;Franáais (France)
+Paramätres rÇgionaux d'entrÇe:              fr;Franáais (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+MÇmoire physique totale:                    16ˇ235 Mo
+MÇmoire physique disponible:                8ˇ185 Mo
+MÇmoire virtuelleˇ: taille maximale:        18ˇ667 Mo
+MÇmoire virtuelleˇ: disponible:             7ˇ639 Mo
+MÇmoire virtuelleˇ: en cours d'utilisation: 11ˇ028 Mo
+Emplacements des fichiers d'Çchange:        C:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\LAPTOP-8TRK6QP8
+Correctif(s):                               20 Corrections installÇes.
+                                            [01]: KB5022502
+                                            [02]: KB4562830
+                                            [03]: KB4577586
+                                            [04]: KB4580325
+                                            [05]: KB4589212
+                                            [06]: KB4598481
+                                            [07]: KB5003791
+                                            [08]: KB5012170
+                                            [09]: KB5023696
+                                            [10]: KB5011352
+                                            [11]: KB5011651
+                                            [12]: KB5014032
+                                            [13]: KB5014035
+                                            [14]: KB5014671
+                                            [15]: KB5015895
+                                            [16]: KB5016705
+                                            [17]: KB5018506
+                                            [18]: KB5020372
+                                            [19]: KB5022924
+                                            [20]: KB5003242
+Carte(s) rÇseau:                            6 carte(s) rÇseau installÇe(s).
+                                            [01]: TAP-ProtonVPN Windows Adapter V9
+                                                  Nom de la connexionˇ: Connexion au rÇseau local
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [02]: Bluetooth Device (Personal Area Network)
+                                                  Nom de la connexionˇ: Connexion rÇseau Bluetooth
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [03]: Intel(R) Wireless-AC 9560 160MHz
+                                                  Nom de la connexionˇ: Wi-Fi
+                                                  DHCP activÇˇ:         Oui
+                                                  Serveur DHCPˇ:        192.168.1.1
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.1.20
+                                            [04]: Realtek PCIe GbE Family Controller
+                                                  Nom de la connexionˇ: Ethernet
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [05]: VirtualBox Host-Only Ethernet Adapter
+                                                  Nom de la connexionˇ: Ethernet 2
+                                                  DHCP activÇˇ:         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.56.1
+                                            [06]: Wintun Userspace Tunnel
+                                                  Nom de la connexionˇ: ProtonVPN TUN
+                                                  êtatˇ:                Support dÇconnectÇ
+Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ordinateur virtuelˇ: Oui
+                                            Virtualisation activÇe dans le microprogrammeˇ: Oui
+                                            Traduction d'adresse de second niveauˇ: Oui
+                                            PrÇvention de l'exÇcution des donnÇes disponibleˇ: Oui
